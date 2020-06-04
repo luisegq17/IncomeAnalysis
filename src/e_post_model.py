@@ -15,3 +15,5 @@ for i in x_test:
 pacc=(cc*100)/c
 
 print("Accuracy: "+str(cc)+"/"+str(c)+" -> "+str(pacc)+" %")
+
+#legq
